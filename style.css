@@ -1,0 +1,56 @@
+p{
+    color: rgb(22, 35, 72) ;
+    font-size: 20px;
+    font-weight: 1000;
+    font-weight: bolder;
+    background-color: rgb(89, 42, 165);
+    
+  }
+
+  #fp {
+     
+    color: rgb(240, 242, 255);
+    background-color: aqua;
+
+
+
+  }
+  .rr{font-weight: 100; }
+
+
+  *{
+     background-repeat: space;
+     background-size: 100pc;
+     background-position: 0cqi;
+     font-family: Arial, sans-serif;
+
+
+  }
+
+  main section p {color: blue;}
+
+  div,span,h2,input {color: rgb(148, 102, 34);
+
+background-color: brown;}
+
+
+
+
+input{display: block;}
+input{display: inline;}
+
+nav ul li  {display: inline;
+    
+text-decoration:solid;
+margin-right: 20px;
+}
+
+
+
+
+
+
+ 
+  
+    
+

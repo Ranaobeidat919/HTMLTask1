@@ -1,0 +1,21 @@
+
+h1 {
+
+    color: rgb(155, 42, 165);
+    font-size: 40px;
+}
+
+
+
+#r {text-align-last: right;}
+
+.right-align-links {
+    display: flex;
+    justify-content: flex-end; 
+    gap: 25px;
+    font-size: 30px;
+
+}
+
+div a {    text-decoration: none;
+}
